@@ -48,7 +48,7 @@ body{
       }
       /*Hover Effects on Social Media Icons*/
       .socialIcons a:hover{
-        background-color:#111;
+        background-color:white;
         transition:0.5s;
       }
       .socialIcons a:hover i{
