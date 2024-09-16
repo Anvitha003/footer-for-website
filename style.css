@@ -1,6 +1,6 @@
 body{
-     .footer {
-        background-color:plum;
+     .footer-container {
+        background-color:black;
         padding: 20px;
       }
       
@@ -24,7 +24,7 @@ body{
       
       .footer-section ul li a {
         text-decoration: none;
-        color:#333;
+        color:white;
       }
       
       .socialIcons {
@@ -42,7 +42,7 @@ body{
       }
       .socialIcons a i{
         font-size: 2em;
-        color:palevioletred;
+        color:blue;
         opacity: 0.9;
 
       }
@@ -52,18 +52,19 @@ body{
         transition:0.5s;
       }
       .socialIcons a:hover i{
-        color:white;
+        color:blue;
         transition:0.5s;
       }
       
        footer {
-        background-color: plum;
+        background-color: black;
         padding: 20px;
       }
       
       .footer-content {
         display: flex;
         justify-content: space-between;
+        color:white;
       }
       
       .footer-section {
@@ -81,7 +82,7 @@ body{
       
       .footer-section ul li a {
         text-decoration: none;
-        color: #333;
+        color: white;
       }
       
       form {
@@ -97,7 +98,7 @@ body{
       
       button {
         padding: 10px 20px;
-        background-color: purple;
+        background-color: blue;
         color: #fff;
         border: none;
         cursor: pointer;
